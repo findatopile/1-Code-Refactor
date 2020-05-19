@@ -61,11 +61,10 @@ figure {
     position: relative;
 }
 
-.hero {
+.figure-img {
     height: auto;
     width: 100%;
     margin-bottom: 20px;
-    /* removed background image */
     background-size: cover;
     background-position: center;
 }
